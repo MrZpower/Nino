@@ -7,7 +7,7 @@
 
 ## How to use the bot?
 Check out the [wiki](https://github.com/NinoDiscord/Nino/wiki)!
-
+[![Run on Repl.it](https://repl.it/badge/github/NinoDiscord/Nino)](https://repl.it/github/NinoDiscord/Nino)
 ## Contributing
 First, check our [contributing guidelines](https://github.com/NinoDiscord/Nino/blob/master/CONTRIBUTING.md) and [code of conduct](https://github.com/NinoDiscord/Nino/blob/master/CODE_OF_CONDUCT.md).
 
